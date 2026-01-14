@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am DARPAN As an AIML (Artificial Intelligence & Machine Learning) student, I’m passionate about exploring how data, logic, and creativity come together to shape the future. Every day, I learn how machines can think, predict, and make intelligent decisions. From understanding algorithms to building AI models, the journey is both challenging and inspiring. AIML is not just about coding.it’s about innovation, problem-solving, and creating technology that impacts lives. Excited to keep learning, experimenting, and growing in this incredible field of Artificial Intelligence & Machine Learning. C , C++. python.   java node.js ,n
+I am DARPAN As an AIML (Artificial Intelligence & Machine Learning) student, I’m passionate about exploring how data, logic, and creativity come together to shape the future. Every day, I learn how machines can think, predict, and make intelligent decisions. From understanding algorithms to building AI models, the journey is both challenging and inspiring. AIML is not just about coding.It’s about innovation, problem-solving, and creating technology that impacts lives. Excited to keep learning, experimenting, and growing in this incredible field of Artificial Intelligence & Machine Learning. C , C++ ,python ,java node.js ,
 
 
 ## 🌐 Socials:
